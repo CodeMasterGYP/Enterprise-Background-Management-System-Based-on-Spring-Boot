@@ -1,0 +1,2 @@
+# Enterprise-Background-Management-System-Based-on-Spring-Boot
+In order to enable enterprises to manage department and employee information safely and efficiently, and to improve corporate management efficiency and security, the software is developed. This system is developed based on the open source framework Spring Boot, and uses the security framework Apache Shiro for user identity authentication, permission control and data encryption.
